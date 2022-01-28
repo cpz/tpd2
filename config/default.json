@@ -1,0 +1,12 @@
+{
+  // Dota 2 Twitch Predictions bot
+  "twitch": {
+      "access_token": "accesstoken",
+      "client_id": "clientid",
+      "login": "twitchdev",
+	  "prediction_title": "I'll win",
+	  "win_text": "Sure!",
+	  "lose_text": "Definitely not!",
+	  "prediction_window": 300,
+    },
+}

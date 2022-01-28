@@ -1,0 +1,35 @@
+{
+  "name": "dota2_twitch_predictions",
+  "version": "1.0.0",
+  "description": "Automatic dota 2 twitch predictions",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "config": "^3.3.7",
+    "dota2-gsi": "^1.0.2",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./bin/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpz/tpd2.git"
+  },
+  "keywords": [
+    "dota2",
+    "twitch",
+    "twitch",
+    "predictions",
+    "twitch",
+    "bot"
+  ],
+  "author": "Konstantin 'cpz' L.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpz/tpd2/issues"
+  },
+  "homepage": "https://github.com/cpz/tpd2#readme"
+}
